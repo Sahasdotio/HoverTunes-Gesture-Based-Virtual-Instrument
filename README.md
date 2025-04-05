@@ -74,8 +74,9 @@ pip install -r requirements.txt
 
 ## 📸 Screenshots & Demo
 
-![HoverTunes](output)
-
+![HoverTunes](https://github.com/Sahasdotio/HoverTunes-Gesture-Based-Virtual-Instrument/blob/daf50eed74e28517a61749bfe609cc1a63ae3089/output/Gesture%20changing.jpg)
+![HoverTunes](https://github.com/Sahasdotio/HoverTunes-Gesture-Based-Virtual-Instrument/blob/daf50eed74e28517a61749bfe609cc1a63ae3089/output/record%20and%20save%20.jpg)
+![HoverTunes](https://github.com/Sahasdotio/HoverTunes-Gesture-Based-Virtual-Instrument/blob/544b708a746b9ea3d938ff3b8c806966b6c7bb2a/output/All%20the%20best.jpg)
 
 ---
 
