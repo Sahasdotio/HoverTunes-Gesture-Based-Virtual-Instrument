@@ -1,0 +1,7 @@
+This folder contains all the media resources used in the HoverTunes interface, including:
+
+🎨 Instrument Images (e.g., guitar.png, piano.png)
+
+🔊 Sound Files (e.g., guitar.wav, flute.wav)
+
+All files here are loaded dynamically by the main app to create an engaging and interactive musical experience.
