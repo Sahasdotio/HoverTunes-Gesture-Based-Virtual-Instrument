@@ -1,0 +1,2 @@
+This folder stores all the audio recordings made during a HoverTunes session.
+Whenever a user clicks the record button, the audio is captured and saved as a .wav file in this folder.
