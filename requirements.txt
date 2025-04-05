@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+pygame
+numpy
+soundfile
+pyaudio
