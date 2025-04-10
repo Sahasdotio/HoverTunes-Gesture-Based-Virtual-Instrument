@@ -94,7 +94,7 @@ We welcome contributions! Feel free to fork the repo and submit pull requests.
 
 ## 📬 Contact
 
-For any questions, reach out via [your email or GitHub profile link].
+For any questions, reach out via @sahasmokashigmail.com.
 
 🎵 **HoverTunes – Play music in the air!** ✨
 
